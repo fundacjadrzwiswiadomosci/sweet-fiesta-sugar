@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sweet Fiesta Sugar</string>
+
+    <string name="app_title">SWEET FIESTA SUGAR</string>
+    <string name="splash_subtitle">A CANDY GARDEN PUZZLE</string>
+    <string name="loading">LOADING…</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="resume">RESUME</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">CLAIMED</string>
+    <string name="paused">PAUSED</string>
+
+    <string name="menu_tagline">MATCH CANDIES, FILL THE RECIPE</string>
+    <string name="menu_stage_line">STAGE %1$d · GARDEN %2$d</string>
+    <string name="route_puzzle_map">PUZZLE MAP</string>
+    <string name="route_tutorial">TUTORIAL</string>
+    <string name="route_daily">DAILY CHALLENGE</string>
+    <string name="route_recipe_book">RECIPE BOOK</string>
+    <string name="route_collection">COLLECTION</string>
+    <string name="route_rewards">REWARDS</string>
+    <string name="route_settings">SETTINGS</string>
+    <string name="ready">READY</string>
+    <string name="done_today">DONE TODAY</string>
+    <string name="fraction">%1$d/%2$d</string>
+    <string name="star_value">★ %1$d</string>
+
+    <string name="stat_stars">STARS</string>
+    <string name="stat_recipes">RECIPES</string>
+    <string name="stat_best_chain">BEST CHAIN</string>
+    <string name="stat_moves_left">MOVES LEFT</string>
+    <string name="stat_stars_won">STARS WON</string>
+    <string name="stat_pieces">PIECES</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+
+    <string name="game_stage">STAGE %1$d</string>
+    <string name="game_garden_line">GARDEN %1$d · %2$s</string>
+    <string name="game_moves">MOVES %1$d</string>
+    <string name="game_objective">OBJECTIVE</string>
+    <string name="game_swap_hint">SWIPE TWO CANDIES TO SWAP</string>
+    <string name="game_sugar_rush">SUGAR RUSH</string>
+    <string name="game_drop_sugar">DROP SUGAR</string>
+    <string name="game_chain">CHAIN x%1$d</string>
+    <string name="game_timer">%1$d S LEFT</string>
+    <string name="game_daily_label">DAILY</string>
+
+    <string name="result_win">RECIPE COMPLETE!</string>
+    <string name="result_lose">OUT OF MOVES!</string>
+    <string name="result_time">OUT OF TIME!</string>
+    <string name="result_collected">COLLECTED</string>
+    <string name="result_new_recipe">NEW RECIPE UNLOCKED</string>
+    <string name="result_new_decor">NEW GARDEN DECOR UNLOCKED</string>
+
+    <string name="title_puzzle_map">PUZZLE MAP</string>
+    <string name="map_locked_garden">CLEAR %1$s TO OPEN THIS GARDEN</string>
+    <string name="map_stage_node">%1$d</string>
+
+    <string name="title_tutorial">TUTORIAL</string>
+    <string name="tutorial_1_title">SWAP TO MATCH</string>
+    <string name="tutorial_1_body">Swipe one candy onto its neighbour. Three or more in a line pop.</string>
+    <string name="tutorial_2_title">CHAIN THE CASCADE</string>
+    <string name="tutorial_2_body">Candies fall in from above. Every extra pop in the same swipe raises your chain.</string>
+    <string name="tutorial_3_title">MELT THE SYRUP</string>
+    <string name="tutorial_3_body">Pop a candy beside a syrup cell to melt one layer of it.</string>
+    <string name="tutorial_4_title">WATCH THE MOVES</string>
+    <string name="tutorial_4_body">Each stage gives you a tiny move budget. Finish the recipe before it runs out.</string>
+    <string name="tutorial_step">%1$d/%2$d</string>
+
+    <string name="title_daily">DAILY CHALLENGE</string>
+    <string name="daily_today">TODAY · %1$s</string>
+    <string name="daily_name">CARAMEL DASH</string>
+    <string name="daily_reward">+%1$d STARS</string>
+    <string name="daily_play">PLAY TODAY</string>
+    <string name="daily_done">COME BACK TOMORROW FOR A FRESH RECIPE</string>
+    <string name="daily_streak">STREAK</string>
+
+    <string name="title_recipe_book">RECIPE BOOK</string>
+    <string name="recipe_locked_hint">COLLECT %1$d %2$s</string>
+    <string name="recipe_book_empty">YOUR BOOK IS STILL BLANK — CLEAR STAGE 1 TO WRITE THE FIRST RECIPE</string>
+
+    <string name="title_collection">COLLECTION</string>
+    <string name="collection_displayed">DISPLAYED</string>
+    <string name="collection_empty">NOTHING UNLOCKED YET — EARN STARS TO FILL YOUR GARDEN</string>
+
+    <string name="title_rewards">REWARDS</string>
+    <string name="rewards_more">%1$d MORE</string>
+    <string name="rewards_next">NEXT REWARD</string>
+
+    <string name="title_settings">SETTINGS</string>
+    <string name="set_high_contrast">HIGH CONTRAST CANDIES</string>
+    <string name="set_reduced_motion">REDUCED MOTION</string>
+    <string name="set_timed">TIMED CHALLENGE</string>
+    <string name="set_larger_text">LARGER BOARD TEXT</string>
+    <string name="set_reset">RESET PROGRESS</string>
+    <string name="set_reset_confirm">ERASE EVERY STAR, STAGE AND RECIPE?</string>
+    <string name="set_version">VERSION</string>
+    <string name="set_version_value">1.0</string>
+    <string name="set_offline_note">FULLY OFFLINE · AD FREE</string>
+    <string name="set_on">ON</string>
+    <string name="set_off">OFF</string>
+
+    <string name="garden_1">SUGAR MEADOW</string>
+    <string name="garden_2">LEMON GROVE</string>
+    <string name="garden_3">BERRY HOLLOW</string>
+    <string name="garden_4">CARAMEL TERRACE</string>
+
+    <string name="candy_strawberry">STRAWBERRY</string>
+    <string name="candy_grape">GRAPE</string>
+    <string name="candy_lemon">LEMON</string>
+    <string name="candy_blueberry">BLUEBERRY</string>
+    <string name="candy_melon">MELON</string>
+    <string name="candy_strawberries">STRAWBERRIES</string>
+    <string name="candy_grapes">GRAPES</string>
+    <string name="candy_lemons">LEMONS</string>
+    <string name="candy_blueberries">BLUEBERRIES</string>
+    <string name="candy_melons">MELONS</string>
+    <string name="candy_syrup">SYRUP</string>
+
+    <string name="recipe_1">STRAWBERRY FIESTA TART</string>
+    <string name="recipe_2">GRAPE RIBBON WHIRL</string>
+    <string name="recipe_3">LEMON SUNBURST PIE</string>
+    <string name="recipe_4">BLUEBERRY CLOUD CAKE</string>
+    <string name="recipe_5">MELON MINT FREEZE</string>
+    <string name="recipe_6">STRAWBERRY SUGAR CROWN</string>
+    <string name="recipe_7">GRAPE MIDNIGHT JELLY</string>
+    <string name="recipe_8">LEMON HONEY TWIST</string>
+    <string name="recipe_9">BLUEBERRY FROST SWIRL</string>
+    <string name="recipe_10">MELON GARDEN TRIFLE</string>
+    <string name="recipe_11">BERRY CARNIVAL LAYER</string>
+    <string name="recipe_12">CITRUS FIESTA CROWN</string>
+
+    <string name="decor_1">SUGAR FOUNTAIN</string>
+    <string name="decor_2">CANDY ARCH</string>
+    <string name="decor_3">LOLLIPOP LANTERN</string>
+    <string name="decor_4">FRUIT CART</string>
+    <string name="decor_5">MINT HEDGE</string>
+    <string name="decor_6">BERRY BENCH</string>
+    <string name="decor_7">CARAMEL BRIDGE</string>
+    <string name="decor_8">GUMBALL POND</string>
+    <string name="decor_9">CHERRY SWING</string>
+    <string name="decor_10">VANILLA GAZEBO</string>
+    <string name="decor_11">PEACH PARASOL</string>
+    <string name="decor_12">WAFFLE PATH</string>
+    <string name="decor_13">HONEY BEEHIVE</string>
+    <string name="decor_14">COCOA WELL</string>
+    <string name="decor_15">PLUM TOPIARY</string>
+    <string name="decor_16">ICING FENCE</string>
+    <string name="decor_17">MARZIPAN STATUE</string>
+    <string name="decor_18">SUGAR WINDMILL</string>
+
+    <string name="cd_home">Home</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_candy_cell">%1$s, syrup layers %2$d</string>
+    <string name="cd_sugar_meter">Sugar rush %1$d percent</string>
+    <string name="cd_next_stage">Next stage %1$d of garden %2$d</string>
+    <string name="cd_stage_node">Stage %1$d, stars %2$d</string>
+    <string name="cd_locked">Locked</string>
+    <string name="cd_unlocked">Unlocked</string>
+</resources>
